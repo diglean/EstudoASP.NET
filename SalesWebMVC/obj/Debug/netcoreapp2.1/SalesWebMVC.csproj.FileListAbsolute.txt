@@ -33,7 +33,6 @@ C:\Users\vlnote26\Desktop\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\Sales
 C:\Users\vlnote26\Desktop\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\vlnote26\Desktop\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\vlnote26\Desktop\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
-C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfoInputs.cache
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfo.cs
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
@@ -42,7 +41,6 @@ C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebM
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.TagHelpers.input.cache
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.TagHelpers.output.cache
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.RazorCoreGenerate.cache
-C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
@@ -69,3 +67,9 @@ C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebM
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
+C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
