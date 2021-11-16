@@ -73,3 +73,4 @@ C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebM
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\vlnote26\Desktop\Diglean\C#\C# - Udemy\12.ASP .net e core MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
